@@ -23,6 +23,7 @@ class Solution:
         """
 
         # 투 포인터
+        """
         left = 0
         cur_sum = 0
         min_len = float('inf')
@@ -42,4 +43,20 @@ class Solution:
                     else:
                         break
         
-        return min_len if min_len != float('inf') else 0 
+        return min_len if min_len != float('inf') else 0
+        """
+
+        # While문
+        left = 0
+        min_len = float('inf')
+        cur_sum = 0
+
+        for right in range(len(nums)):
+            cur_sum += nums[right]
+
+            if cur_sum >= target:
+                while cur_sum - nums[left] >= target:
+                    cur_sum -= nums[left]
+                    left += 1
+                min_len = min(min_len, right - left +1)
+        return min_len if min_len != float('inf') else 0    
