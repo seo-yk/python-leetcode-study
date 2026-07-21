@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seo-yk/python-study/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/seo-yk/python-study/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/seo-yk/leetcode-study/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seo-yk/python-study/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/seo-yk/python-study/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/seo-yk/python-study/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/seo-yk/python-study/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/seo-yk/python-study/tree/master/0077-combinations) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/seo-yk/python-study/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/seo-yk/python-study/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/seo-yk/python-study/tree/master/0198-house-robber) |
 ## Memoization
