@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/seo-yk/python-study/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/seo-yk/python-study/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/seo-yk/python-study/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/seo-yk/python-study/tree/master/0046-permutations) |
 | [0128-longest-consecutive-sequence](https://github.com/seo-yk/python-study/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/seo-yk/python-study/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seo-yk/python-study/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/seo-yk/python-study/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/seo-yk/python-study/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/seo-yk/python-study/tree/master/0077-combinations) |
 ## Tree
