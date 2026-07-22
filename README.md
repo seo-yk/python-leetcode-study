@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seo-yk/python-study/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/seo-yk/python-study/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/seo-yk/python-study/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/seo-yk/python-study/tree/master/0071-simplify-path) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/seo-yk/leetcode-study/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -150,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/seo-yk/python-study/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/seo-yk/python-study/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
