@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/seo-yk/python-study/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seo-yk/python-study/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/seo-yk/python-study/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/seo-yk/python-study/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/seo-yk/python-study/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/seo-yk/python-study/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/seo-yk/python-study/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/seo-yk/python-study/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/seo-yk/python-study/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/seo-yk/python-study/tree/master/0167-two-sum-ii-input-array-is-sorted) |
