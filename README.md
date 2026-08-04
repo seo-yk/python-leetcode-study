@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/seo-yk/python-study/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/seo-yk/python-study/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
+| [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
 | [1768-merge-strings-alternately](https://github.com/seo-yk/leetcode-study/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/seo-yk/python-study/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
+| [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/seo-yk/python-study/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/seo-yk/python-study/tree/master/0199-binary-tree-right-side-view) |
+| [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
 ## Binary Tree
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
