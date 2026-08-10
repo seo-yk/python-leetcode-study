@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/seo-yk/python-study/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/seo-yk/python-study/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/seo-yk/python-study/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/seo-yk/python-study/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/seo-yk/python-study/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/seo-yk/python-study/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/seo-yk/python-study/tree/master/0128-longest-consecutive-sequence) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/seo-yk/python-study/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/seo-yk/python-study/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/seo-yk/python-study/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/seo-yk/python-study/tree/master/0198-house-robber) |
 ## Memoization
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/seo-yk/python-study/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/seo-yk/python-study/tree/master/0055-jump-game) |
 ## Matrix
 |  |
 | ------- |
