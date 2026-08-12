@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/seo-yk/python-study/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/seo-yk/python-study/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/seo-yk/python-study/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/seo-yk/python-study/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/seo-yk/python-study/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/seo-yk/python-study/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/seo-yk/python-study/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seo-yk/python-study/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/seo-yk/python-study/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/seo-yk/python-study/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/seo-yk/python-study/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/seo-yk/python-study/tree/master/0055-jump-game) |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/seo-yk/python-study/tree/master/0322-coin-change) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/seo-yk/python-study/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
