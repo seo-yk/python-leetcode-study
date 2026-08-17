@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/seo-yk/python-study/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seo-yk/python-study/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
+| [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/seo-yk/python-study/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
 ## Bidirectional Search
 |  |
 | ------- |
