@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
+| [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/seo-yk/python-study/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/seo-yk/python-study/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
+| [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seo-yk/python-study/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
+| [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
+| [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
+| [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Bidirectional Search
 |  |
 | ------- |
