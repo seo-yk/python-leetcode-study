@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/seo-yk/python-study/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/seo-yk/python-study/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/seo-yk/python-study/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/seo-yk/python-study/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/seo-yk/python-study/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/seo-yk/python-study/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seo-yk/python-study/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/seo-yk/python-study/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/seo-yk/python-study/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/seo-yk/python-study/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/seo-yk/python-study/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/seo-yk/python-study/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/seo-yk/python-study/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seo-yk/python-study/tree/master/0215-kth-largest-element-in-an-array) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/seo-yk/python-study/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seo-yk/python-study/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
@@ -252,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/seo-yk/python-study/tree/master/0062-unique-paths) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
