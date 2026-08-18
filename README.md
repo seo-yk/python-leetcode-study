@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/seo-yk/python-study/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/seo-yk/python-study/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/seo-yk/python-study/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seo-yk/python-study/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/seo-yk/python-study/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/seo-yk/python-study/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/seo-yk/python-study/tree/master/0912-sort-an-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/seo-yk/python-study/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/seo-yk/python-study/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/seo-yk/python-study/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/seo-yk/python-study/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/seo-yk/python-study/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/seo-yk/python-study/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/seo-yk/python-study/tree/master/0229-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
