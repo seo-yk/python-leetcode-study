@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/seo-yk/python-study/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/seo-yk/python-study/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/seo-yk/python-study/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/seo-yk/python-study/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/seo-yk/python-study/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/seo-yk/python-study/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/seo-yk/python-study/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/seo-yk/python-study/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/seo-yk/python-study/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/seo-yk/python-study/tree/master/0406-queue-reconstruction-by-height) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/seo-yk/python-study/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
