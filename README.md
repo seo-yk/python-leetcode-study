@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/seo-yk/python-study/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/seo-yk/python-study/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/seo-yk/python-study/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/seo-yk/python-study/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
 | [1768-merge-strings-alternately](https://github.com/seo-yk/leetcode-study/tree/master/1768-merge-strings-alternately) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/seo-yk/python-study/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/seo-yk/python-study/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/seo-yk/python-study/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
 ## Bit Manipulation
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/seo-yk/python-study/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/seo-yk/python-study/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/seo-yk/python-study/tree/master/0383-ransom-note) |
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
 |  |
