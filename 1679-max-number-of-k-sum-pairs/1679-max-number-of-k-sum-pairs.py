@@ -3,14 +3,19 @@ class Solution:
         count = 0
         s_nums = sorted(nums)
         left = 0
+        right = len(s_nums)-1
 
-        while s_nums:
-            target = k - s_nums.pop()
-            for i in range(left, len(s_nums)):
-                if s_nums[i] == target:
+        while left < right:
+            target = k - s_nums[right]
+            if target > 0:
+                if s_nums[left] == target:
+                    left += 1
+                    right -= 1
                     count += 1
-                    left = i+1
-                    break
-                elif s_nums[i] > target:
-                    break
+                elif s_nums[left] < target:
+                    left += 1
+                else: right -= 1
+            else:
+                right -= 1
+
         return count
