@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/seo-yk/python-study/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/seo-yk/python-study/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/seo-yk/python-study/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/seo-yk/leetcode-study/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/seo-yk/python-study/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/seo-yk/python-study/tree/master/0406-queue-reconstruction-by-height) |
 | [0912-sort-an-array](https://github.com/seo-yk/python-study/tree/master/0912-sort-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/seo-yk/python-study/tree/master/0912-sort-an-array) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
