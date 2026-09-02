@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/seo-yk/python-study/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/seo-yk/python-study/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/seo-yk/python-study/tree/master/0406-queue-reconstruction-by-height) |
+| [0643-maximum-average-subarray-i](https://github.com/seo-yk/python-study/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/seo-yk/python-study/tree/master/0912-sort-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/seo-yk/python-study/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/seo-yk/python-study/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/seo-yk/python-study/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
