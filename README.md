@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/seo-yk/python-study/tree/master/0912-sort-an-array) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
+| [1004-max-consecutive-ones-iii](https://github.com/seo-yk/python-study/tree/master/1004-max-consecutive-ones-iii) |
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -226,17 +227,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/seo-yk/python-study/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/seo-yk/python-study/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/seo-yk/python-study/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/seo-yk/python-study/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/seo-yk/python-study/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/seo-yk/python-study/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/seo-yk/python-study/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/seo-yk/python-study/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/seo-yk/python-study/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/seo-yk/python-study/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/seo-yk/python-study/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
