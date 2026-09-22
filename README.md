@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/seo-yk/python-study/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/seo-yk/python-study/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seo-yk/python-study/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/seo-yk/python-study/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/seo-yk/python-study/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seo-yk/python-study/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
+| [0872-leaf-similar-trees](https://github.com/seo-yk/python-study/tree/master/0872-leaf-similar-trees) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/seo-yk/python-study/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/seo-yk/python-study/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seo-yk/python-study/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0872-leaf-similar-trees](https://github.com/seo-yk/python-study/tree/master/0872-leaf-similar-trees) |
 ## Binary Search
 |  |
 | ------- |
