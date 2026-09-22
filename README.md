@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/seo-yk/python-study/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seo-yk/python-study/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/seo-yk/python-study/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/seo-yk/python-study/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/seo-yk/python-study/tree/master/0872-leaf-similar-trees) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/seo-yk/python-study/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/seo-yk/python-study/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/seo-yk/python-study/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/seo-yk/python-study/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/seo-yk/python-study/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/seo-yk/python-study/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
