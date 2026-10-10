@@ -372,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/seo-yk/python-study/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/seo-yk/python-study/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
