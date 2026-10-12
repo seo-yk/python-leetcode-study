@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/seo-yk/python-study/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/seo-yk/python-study/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
 | [1267-count-servers-that-communicate](https://github.com/seo-yk/python-study/tree/master/1267-count-servers-that-communicate) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/seo-yk/python-study/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/seo-yk/python-study/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/seo-yk/python-study/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/seo-yk/python-study/tree/master/0874-walking-robot-simulation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/seo-yk/python-study/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Binary Lifting
 |  |
 | ------- |
