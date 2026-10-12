@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/seo-yk/python-study/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/seo-yk/leetcode-study/tree/master/0389-find-the-difference) |
 | [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
+| [0874-walking-robot-simulation](https://github.com/seo-yk/python-study/tree/master/0874-walking-robot-simulation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/seo-yk/python-study/tree/master/0406-queue-reconstruction-by-height) |
 | [0643-maximum-average-subarray-i](https://github.com/seo-yk/python-study/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/seo-yk/python-study/tree/master/0695-max-area-of-island) |
+| [0874-walking-robot-simulation](https://github.com/seo-yk/python-study/tree/master/0874-walking-robot-simulation) |
 | [0909-snakes-and-ladders](https://github.com/seo-yk/python-study/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/seo-yk/python-study/tree/master/0912-sort-an-array) |
 | [0934-shortest-bridge](https://github.com/seo-yk/python-study/tree/master/0934-shortest-bridge) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/seo-yk/python-study/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/seo-yk/python-study/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/seo-yk/python-study/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/seo-yk/python-study/tree/master/0874-walking-robot-simulation) |
 ## Binary Lifting
 |  |
 | ------- |
