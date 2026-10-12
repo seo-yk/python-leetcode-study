@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
 | [0657-robot-return-to-origin](https://github.com/seo-yk/python-study/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/seo-yk/python-study/tree/master/0709-to-lower-case) |
+| [1041-robot-bounded-in-circle](https://github.com/seo-yk/python-study/tree/master/1041-robot-bounded-in-circle) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/seo-yk/python-study/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/seo-yk/leetcode-study/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/seo-yk/python-study/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/seo-yk/python-study/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/seo-yk/python-study/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1041-robot-bounded-in-circle](https://github.com/seo-yk/python-study/tree/master/1041-robot-bounded-in-circle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/seo-yk/python-study/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/seo-yk/python-study/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/seo-yk/python-study/tree/master/0874-walking-robot-simulation) |
+| [1041-robot-bounded-in-circle](https://github.com/seo-yk/python-study/tree/master/1041-robot-bounded-in-circle) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/seo-yk/python-study/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Binary Lifting
 |  |
