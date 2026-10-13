@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/seo-yk/python-study/tree/master/1041-robot-bounded-in-circle) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/seo-yk/python-study/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/seo-yk/leetcode-study/tree/master/1768-merge-strings-alternately) |
+| [3143-maximum-points-inside-the-square](https://github.com/seo-yk/python-study/tree/master/3143-maximum-points-inside-the-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/seo-yk/python-study/tree/master/0433-minimum-genetic-mutation) |
 | [0874-walking-robot-simulation](https://github.com/seo-yk/python-study/tree/master/0874-walking-robot-simulation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3143-maximum-points-inside-the-square](https://github.com/seo-yk/python-study/tree/master/3143-maximum-points-inside-the-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/seo-yk/python-study/tree/master/0406-queue-reconstruction-by-height) |
 | [0912-sort-an-array](https://github.com/seo-yk/python-study/tree/master/0912-sort-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3143-maximum-points-inside-the-square](https://github.com/seo-yk/python-study/tree/master/3143-maximum-points-inside-the-square) |
 ## Array
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/seo-yk/python-study/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/seo-yk/python-study/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/seo-yk/python-study/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3143-maximum-points-inside-the-square](https://github.com/seo-yk/python-study/tree/master/3143-maximum-points-inside-the-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/seo-yk/python-study/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/seo-yk/python-study/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/seo-yk/python-study/tree/master/1004-max-consecutive-ones-iii) |
+| [3143-maximum-points-inside-the-square](https://github.com/seo-yk/python-study/tree/master/3143-maximum-points-inside-the-square) |
 ## Sliding Window
 |  |
 | ------- |
