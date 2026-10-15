@@ -1,21 +1,17 @@
 class Solution:
-    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        ans = []
-        path = []
+    def combinationSum(self, candidates: list[int], target: int) -> list[list[int]]:
+        answer = []
 
-        def dfs(start, curr):
-            if curr == target:
-                ans.append(path[:])
+        def solve(start, curr_sum, path):
+            if curr_sum == target:
+                answer.append(path[:])
                 return
-            
+
             for i in range(start, len(candidates)):
-                if curr < target:
-                    curr += candidates[i]
+                if curr_sum + candidates[i] <= target:
                     path.append(candidates[i])
-                    
-                    dfs(i, curr)
+                    solve(i, curr_sum + candidates[i], path)
                     path.pop()
-                    curr -= candidates[i]
-            
-        dfs(0, 0)
-        return ans
+
+        solve(0, 0, [])
+        return answer
