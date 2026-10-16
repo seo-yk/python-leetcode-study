@@ -1,22 +1,20 @@
 class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
-        ans = []
-        path = []
-        visited = [False] * len(nums)
+    def permute(self, nums: list[int]) -> list[list[int]]:
+        answer = []
+        visited = [False for _ in range(len(nums))]
 
-        def dfs(start):
+        def helper(path):
             if len(path) == len(nums):
-                ans.append(path[:])
+                answer.append(path[:])
                 return
-            
+
             for i in range(len(nums)):
-                if not visited[i]:
+                if visited[i] == False:
                     visited[i] = True
                     path.append(nums[i])
-
-                    dfs(start + 1)
+                    helper(path)
                     path.pop()
                     visited[i] = False
 
-        dfs(0)
-        return ans
+        helper([])
+        return answer
